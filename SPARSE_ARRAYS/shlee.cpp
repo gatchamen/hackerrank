@@ -1,21 +1,24 @@
 #include <bits/stdc++.h>
+#include <map>
 
 using namespace std;
 
 // Complete the matchingStrings function below.
 vector<int> matchingStrings(vector<string> strings, vector<string> queries) {
-    vector<int> r(queries.size());
+  map<string, int> m;
 
-    for (int j = 0, m = queries.size(); j < m; j++) {
-      for (int i = 0, n = strings.size(); i < n; i++) {
-        if (strings[i] == queries[j]) {
-          r[j]++;
-        }
-      }
-    }
+  for(string s : strings) {
+    m[s]++;
+  }
 
-    return r;
+  vector<int> r;
+  for(string query : queries) {
+    r.push_back(m[query]);
+  }
+
+  return r;
 }
+
 
 int main()
 {
