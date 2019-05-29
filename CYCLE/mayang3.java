@@ -1,5 +1,3 @@
-package hackerrank.cs.dataStructure.linkedlist;
-
 import java.util.HashSet;
 import java.util.Set;
 
