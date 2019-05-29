@@ -6,9 +6,15 @@ class node:
       self.right = None
 """
 
+maxmap = {}
+minmap = {}
+
 def max(root):
     if root is None:
         return None
+
+    if root in maxmap:
+        return maxmap[root]
     
     l = max(root.left)
     r = max(root.right)
@@ -18,12 +24,16 @@ def max(root):
         data = l
     if r is not None and r > data:
         data = r
-        
+    
+    maxmap[root] = data
     return data
 
 def min(root):
     if root is None:
         return None
+    
+    if root in minmap:
+        return minmap[root]
     
     l = min(root.left)
     r = min(root.right)
@@ -34,6 +44,7 @@ def min(root):
     if r is not None and r < data:
         data = r
         
+    minmap[root] = data
     return data
 
 
@@ -48,4 +59,3 @@ def check_binary_search_tree_(root):
         return False
     
     return check_binary_search_tree_(root.left) and check_binary_search_tree_(root.right)
-
