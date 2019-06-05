@@ -29,6 +29,10 @@
 4. [CASTLE_ON_THE_GRID](https://www.hackerrank.com/challenges/castle-on-the-grid/problem)
 
 #### 2019.06.12 (4주)
+1. [SIMPLE_TEXT_EDITOR](https://www.hackerrank.com/challenges/simple-text-editor/problem)
+2. [WAITER](https://www.hackerrank.com/challenges/waiter/problem)
+3. [TRUCK_TOUR](https://www.hackerrank.com/challenges/truck-tour/problem)
+4. [ORGANIZING_CONTAINERS_OF_BALLS](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem)
 
 #### 2019.06.19 (5주)
 
