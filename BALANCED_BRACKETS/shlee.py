@@ -26,7 +26,7 @@ def isBalanced(s):
             if c == ")" and d != "(":                
                 return "NO"
         
-    if not s:
+    if not stack:
         return "YES"
     else:
         return "NO"
