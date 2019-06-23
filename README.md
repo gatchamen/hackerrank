@@ -37,6 +37,10 @@
 #### 2019.06.19 (5주)
 
 #### 2019.06.26 (6주)
+1. [ARRAY-TO-BST](https://practice.geeksforgeeks.org/problems/array-to-bst/0)
+2. [CHECK-MIRROR-IN-N-ARY-TREE](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
+3. [BINARY-TREE-K-LEVEL-SUM](https://practice.geeksforgeeks.org/problems/binary-tree-k-level-sum/0)
+4. [PREORDER-TO-POSTORDER](https://practice.geeksforgeeks.org/problems/preorder-to-postorder/0)
 
 #### 2019.07.03 (7주)
 
