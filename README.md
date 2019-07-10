@@ -2,8 +2,7 @@
 매주 알고리즘 Hackerrank 문제풀이 진행
 
 - 시간 : 매주 수요일 19:30 - 21:30
-- 장소 : 정자역 디플레이스 http://naver.me/GSpraltP
-- 교재 : http://www.hackerrank.com
+- 장소 : 미금역 르하임 http://naver.me/G4ysgjpH
 - 방식 :
 1. 사전 4문제 제시
 2. 당일 사다리
