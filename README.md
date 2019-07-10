@@ -47,7 +47,10 @@
 #### 2019.07.10 (8주)
 
 #### 2019.07.17 (9주)
-- 특이사항 : 제헌절(7.17)
+1. [WORD-BREAK](https://practice.geeksforgeeks.org/problems/word-break/0)
+2. [COIN-CHANGE](https://practice.geeksforgeeks.org/problems/coin-change/0)
+3. [LONGEST-PALINDROM-SUBSEQUENCE](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence/0)
+4. [EGG-DROPPING-PUZZLE](https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0)
 
 #### 2019.07.24 (10주)
 
